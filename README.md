@@ -19,4 +19,4 @@ To write and save notes
 
 [https://github.com/magical91/Note-Taker](https://github.com/magical91/Note-Taker)
 
-![Screen Shot](https://github.com/magical91/Team-Profile-Generator/blob/main/images/sc1.png?raw=true)
+![Screen Shot](https://github.com/magical91/Note-Taker/blob/main/assets/sc.png?raw=true)
